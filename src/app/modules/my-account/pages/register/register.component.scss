@@ -1,0 +1,22 @@
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  h1 {
+    font-family: 'Black Ops One';
+    font-size: 48px;
+    font-weight: 400;
+    color: #094454;
+  }
+  button {
+    width: 315px;
+    height: 47px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #094454;
+    border: none;
+    border-radius: 8px;
+    background-color: #B3D208;
+  }
+}
